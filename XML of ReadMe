@@ -1,6 +1,7 @@
 <xml>
 	<record>
-		<BookTitle>Every Day is Mother's Day: Chatto & Windus, 1985</BookTitle>
+	<Title>Every Day is Mother's Day</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>0-7011-2895-X</ISBN>
 		<Year>1985</Year>
@@ -11,7 +12,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>Vacant Possession</BookTitle>
+	<Title>Vacant Possession</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>0-7011-3047-4</ISBN>
 		<Year>1986</Year>
@@ -22,7 +24,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>Eight Months on Ghazzah Street</BookTitle>
+	<Title>Eight Months on Ghazzah Street</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>0-8050-5203-8</ISBN>
 		<Year>1988</Year>
@@ -32,7 +35,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>Fludd</BookTitle>
+	<Title>Fludd</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>0-670-82118-7</ISBN>
 		<Year>1989</Year>
@@ -42,7 +46,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>A Place of Greater Safety</BookTitle>
+	<Title>A Place of Greater Safety</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>0-312-42639-9</ISBN>
 		<Year>1992</Year>
@@ -52,7 +57,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>A Change of Climate</BookTitle>
+	<Title>A Change of Climate</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>0-670-83051-8</ISBN>
 		<Year>1994</Year>
@@ -62,7 +68,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>An Experiment in Love</BookTitle>
+	<Title>An Experiment in Love</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>978-0312426873</ISBN>
 		<Year>1995</Year>
@@ -72,7 +79,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>The Giant, O'Brien</BookTitle>
+	<Title>The Giant, O'Brien</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>1-85702-884-8</ISBN>
 		<Year>1998</Year>
@@ -82,7 +90,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>Beyond Black</BookTitle>
+	<Title>Beyond Black</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>0-00-715775-4</ISBN>
 		<Year>2005</Year>
@@ -92,7 +101,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>Wolf Hall</BookTitle>
+	<Title>Wolf Hall</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>0-00-723018-4</ISBN>
 		<Year>2009</Year>
@@ -103,7 +113,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>Bring Up the Bodies</BookTitle>
+	<Title>Bring Up the Bodies</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>978-0805090031</ISBN>
 		<Year>2012</Year>
@@ -114,7 +125,8 @@
 	</record>
 	
 	<record>
-	<BookTitle>The Mirror and the Light</BookTitle>
+	<Title>The Mirror and the Light</Title>
+		<Type>Novel</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>N/A</ISBN>
 		<Year>N/A</Year>
@@ -125,8 +137,8 @@
 	</record>
 	
 	<record>
-
-	<BookTitle>A Book</BookTitle>
+	<Title>A Book</Title>
+		<Type>Short Story</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>11111111111</ISBN>
 		<PublicationDate>03/11/1976</PublicationDate>
