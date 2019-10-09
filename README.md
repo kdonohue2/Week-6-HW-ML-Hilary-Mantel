@@ -4,7 +4,7 @@ List of Works by Hilary Mantel
 
 Novels
 
-Every Day is Mother's Day Series:
+*Every Day is Mother's Day Series:
 
 --Every Day is Mother's Day: Chatto & Windus, 1985
 
