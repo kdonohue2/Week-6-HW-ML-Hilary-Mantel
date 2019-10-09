@@ -50,3 +50,5 @@ Articles
 
 --"Diary", London Review of Books, 4 November 2010.
 Blot, erase, delete: How the author found her voice and why all writers should resist the urge to change their past words, Index Censorship, September 2016.
+
+(List example taken from https://en.wikipedia.org/wiki/Hilary_Mantel)
