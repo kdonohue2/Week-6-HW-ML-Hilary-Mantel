@@ -1,6 +1,6 @@
 # Week-6-HW-Markup-Languages
 
-List of Works by Hilary Mantel (List example taken from https://en.wikipedia.org/wiki/Hilary_Mantel)
+List of Works by Hilary Mantel
 
 Novels
 
