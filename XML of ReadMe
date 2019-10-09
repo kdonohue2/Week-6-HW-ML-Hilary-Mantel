@@ -72,17 +72,34 @@
 	</record>
 	
 	<record>
-	<BookTitle>A Book</BookTitle>
+	<BookTitle>The Giant, O'Brien</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
+		<ISBN>1-85702-884-8</ISBN>
+		<Year>1998</Year>
+		<Publisher>Fourth Estate</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
+	</record>
+	
+	<record>
+	<BookTitle>Beyond Black</BookTitle>
+		<Contributor(s)>Hilary Mantel</Contributor(s)>
+		<ISBN>0-00-715775-4</ISBN>
+		<Year>2005</Year>
+		<Publisher>Fourth Estate</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
+		<Series>N/A</Series>
+	</record>
+	
+	<record>
+	<BookTitle>Wolf Hall</BookTitle>
+		<Contributor(s)>Hilary Mantel</Contributor(s)>
+		<ISBN>0-00-723018-4</ISBN>
+		<Year>2009</Year>
+		<Publisher>Fourth Estate</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
+		<Series>Thomas Cromwell Series</Series>
+		<SeriesVolume>1</SeriesVolume>
 
 	</record>
 	
@@ -99,6 +116,7 @@
 		<Edition>2</Edition>
 		<Volume>N/A</Volume>
 		<Series>N/A</Series>
+		<SeriesVolume>2</SeriesVolume>
 
 	</record>
 	
@@ -115,38 +133,7 @@
 		<Edition>2</Edition>
 		<Volume>N/A</Volume>
 		<Series>N/A</Series>
-
-	</record>
-	
-	<record>
-
-	<BookTitle>A Book</BookTitle>
-		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
-		<Series>N/A</Series>
-
-	</record>
-	
-	<record>
-
-	<BookTitle>A Book</BookTitle>
-		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
-		<Series>N/A</Series>
+		<SeriesVolume>3</SeriesVolume>
 
 	</record>
 	
