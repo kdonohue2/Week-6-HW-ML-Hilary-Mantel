@@ -1,4 +1,5 @@
 <xml>
+
 	<record>
 	<Title>Every Day is Mother's Day</Title>
 		<Type>Novel</Type>
@@ -168,5 +169,39 @@
 		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
 	</record>
+	
+	<record>
+	<Title>What a man this is, with his crowd of women around him!</Title>
+		<Type>Article</Type>
+		<Contributor(s)>Hilary Mantel</Contributor(s)>
+		<ISBN>N/A</ISBN>
+		<PublicationDate>2000</PublicationDate>
+		<Publisher>London Review of Books</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
+		<Series>N/A</Series>
+	</record>
+	
+	<record>
+	<Title>Some Girls Want Out</Title>
+		<Type>Article</Type>
+		<Contributor(s)>Hilary Mantel</Contributor(s)>
+		<ISBN>N/A</ISBN>
+		<PublicationDate>2004</PublicationDate>
+		<Publisher>London Review of Books</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
+		<Series>N/A</Series>
+	</record>
+	
+	<record>
+	<Title>Diary</Title>
+		<Type>Article</Type>
+		<Contributor(s)>Hilary Mantel</Contributor(s)>
+		<ISBN>N/A</ISBN>
+		<PublicationDate>2010</PublicationDate>
+		<Publisher>London Review of Books</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
+		<Series>N/A</Series>
+	</record>
+
 </xml>
 
