@@ -1,4 +1,6 @@
-<xml>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="christie4.xsl"?>
+<catalogue>
 	<record>
 	<Title>Every Day is Mother's Day</Title>
 		<Type>Novel</Type>
@@ -184,4 +186,4 @@
 		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
 	</record>
-</xml>
+</catalogue>
