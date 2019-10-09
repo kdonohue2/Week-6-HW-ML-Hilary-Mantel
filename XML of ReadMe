@@ -1,6 +1,7 @@
 <!--Originally created by kdonohue2 (9th Oct 2019) 13:00 - 16:00-->
 <!--Edited Declaration Skeleton taken from Source cs436: 9th Oct 2019 17:17 - Onwards-->
-
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="christie4.xsl"?>
 <catalogue>
 	<record>
 	<Title>Every Day is Mother's Day</Title>
