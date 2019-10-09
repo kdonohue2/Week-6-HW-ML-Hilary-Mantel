@@ -17,10 +17,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <td><xsl:value-of select="title"/></td>
       <xsl:choose>
       <xsl:when test="year > 1991">
-          <td class="post">After: <xsl:value-of select="author"/></td>
+          <td class="post">After: <xsl:value-of select="Contributor(s)"/></td>
       </xsl:when>
       <xsl:otherwise>
-          <td class="pre">Before: <xsl:value-of select="author"/></td>
+          <td class="pre">Before: <xsl:value-of select="Contributor(s)"/></td>
       </xsl:otherwise>
       </xsl:choose>
     </tr>
