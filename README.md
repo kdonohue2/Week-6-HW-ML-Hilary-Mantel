@@ -6,9 +6,9 @@ List of Works by Hilary Mantel
 
 *Every Day is Mother's Day Series:
 
---Every Day is Mother's Day: Chatto & Windus, 1985
+---Every Day is Mother's Day: Chatto & Windus, 1985
 
---Vacant Possession: Chatto & Windus, 1986
+---Vacant Possession: Chatto & Windus, 1986
 
 *Eight Months on Ghazzah Street: Viking Press, 1988
 
@@ -24,13 +24,13 @@ List of Works by Hilary Mantel
 
 *Beyond Black: Fourth Estate, 2005
 
-Thomas Cromwell Series:
+*Thomas Cromwell Series:
 
---Wolf Hall: Fourth Estate, 2009
+---Wolf Hall: Fourth Estate, 2009
 
---Bring Up the Bodies: Fourth Estate, 2012
+---Bring Up the Bodies: Fourth Estate, 2012
 
---The Mirror and the Light: in progress
+---The Mirror and the Light: in progress
 
 [Short stories]
 
