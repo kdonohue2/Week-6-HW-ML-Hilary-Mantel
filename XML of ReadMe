@@ -100,28 +100,20 @@
 		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>Thomas Cromwell Series</Series>
 		<SeriesVolume>1</SeriesVolume>
-
 	</record>
 	
 	<record>
-
-	<BookTitle>A Book</BookTitle>
+	<BookTitle>Bring Up the Bodies</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
-		<Series>N/A</Series>
+		<ISBN>978-0805090031</ISBN>
+		<Year>2012</Year>
+		<Publisher>Fourth Estate</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
+		<Series>Thomas Cromwell Series</Series>
 		<SeriesVolume>2</SeriesVolume>
-
 	</record>
 	
 	<record>
-
 	<BookTitle>A Book</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>11111111111</ISBN>
