@@ -2,37 +2,27 @@
 	<record>
 		<BookTitle>Every Day is Mother's Day: Chatto & Windus, 1985</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
-		<Series>N/A</Series>
-
+		<ISBN>0-7011-2895-X</ISBN>
+		<Year>1985</Year>
+		<Publisher>Chatto and Windus</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
+		<Series>Every Day is Mother's Day Series</Series>
+		<SeriesVolume>1</SeriesVolume>
 	</record>
 	
 	<record>
-
-	<BookTitle>A Book</BookTitle>
+	<BookTitle>Vacant Possession</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
-		<Series>N/A</Series>
-
+		<ISBN>0-7011-3047-4</ISBN>
+		<PublicationDate>1986</PublicationDate>
+		<Publisher>Chatto and Windus</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
+		<Series>Every Day is Mother's Day Series</Series>
+		<SeriesVolume>2</SeriesVolume>
 	</record>
 	
 	<record>
-
-	<BookTitle>A Book</BookTitle>
+	<BookTitle>Eight Months on Ghazzah Street</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>11111111111</ISBN>
 		<PublicationDate>03/11/1976</PublicationDate>
