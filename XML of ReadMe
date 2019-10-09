@@ -14,7 +14,7 @@
 	<BookTitle>Vacant Possession</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>0-7011-3047-4</ISBN>
-		<PublicationDate>1986</PublicationDate>
+		<Year>1986</Year>
 		<Publisher>Chatto and Windus</Publisher>
 		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>Every Day is Mother's Day Series</Series>
@@ -24,52 +24,34 @@
 	<record>
 	<BookTitle>Eight Months on Ghazzah Street</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
+		<ISBN>0-8050-5203-8</ISBN>
+		<Year>1988</Year>
+		<Publisher>Viking Press</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
-
 	</record>
 	
 	<record>
-
-	<BookTitle>A Book</BookTitle>
+	<BookTitle>Fludd</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
+		<ISBN>0-670-82118-7</ISBN>
+		<Year>1989</Year>
+		<Publisher>Viking Press</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
-
 	</record>
 	
 	<record>
-
-	<BookTitle>A Book</BookTitle>
+	<BookTitle>A Place of Greater Safety</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
+		<ISBN>0-312-42639-9</ISBN>
+		<Year>1992</Year>
+		<Publisher>Viking Press</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
-
 	</record>
 	
 	<record>
-
 	<BookTitle>A Book</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>11111111111</ISBN>
