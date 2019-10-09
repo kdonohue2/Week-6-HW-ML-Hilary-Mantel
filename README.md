@@ -2,6 +2,8 @@
 
 List of Works by Hilary Mantel
 
+(Be sure to check xml and xsl as well)
+
 [Novels]
 
 *Every Day is Mother's Day Series:
