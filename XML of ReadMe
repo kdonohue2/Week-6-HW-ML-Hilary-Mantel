@@ -52,38 +52,26 @@
 	</record>
 	
 	<record>
-	<BookTitle>A Book</BookTitle>
+	<BookTitle>A Change of Climate</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
+		<ISBN>0-670-83051-8</ISBN>
+		<Year>1994</Year>
+		<Publisher>Viking Books</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
-
 	</record>
 	
 	<record>
-
-	<BookTitle>A Book</BookTitle>
+	<BookTitle>An Experiment in Love</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
+		<ISBN>978-0312426873</ISBN>
+		<Year>1995</Year>
+		<Publisher>Penguin Books</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
-
 	</record>
 	
 	<record>
-
 	<BookTitle>A Book</BookTitle>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
 		<ISBN>11111111111</ISBN>
