@@ -1,0 +1,18 @@
+<xml>
+	<record>
+		<BookTitle>A Book</BookTitle>
+		<Contributor(s)>Arthur Author</Contributor(s)>
+		<ISBN>11111111111</ISBN>
+		<PublicationDate>03/11/1976</PublicationDate>
+		<Publisher>Pen Publishers</Publisher>
+		<CityOfPublication>New York</CityOfPublication>
+		<StateOfPublication>NY</StateOfPublication>
+		<CountryOfPublication>US</CountryOfPublication>
+		<Edition>2</Edition>
+		<Volume>N/A</Volume>
+		<Series>N/A</Series>
+
+	</record>
+
+</xml>
+		
