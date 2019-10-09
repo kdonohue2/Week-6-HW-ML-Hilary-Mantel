@@ -137,61 +137,36 @@
 	</record>
 	
 	<record>
-	<Title>A Book</Title>
+	<Title>Learning to Talk</Title>
 		<Type>Short Story</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
+		<ISBN>N/A</ISBN>
+		<Year>2003</Year>
+		<Publisher>Fourth Estate</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
-
 	</record>
 	
 	<record>
-
-	<BookTitle>A Book</BookTitle>
+	<Title>The Assassination of Margaret Thatcher</Title>
+		<Type>Short Story</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
+		<ISBN>N/A</ISBN>
+		<PublicationDate>2014</PublicationDate>
+		<Publisher>Fourth Estate</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
-
 	</record>
 	
 	<record>
-
-	<BookTitle>A Book</BookTitle>
+	<Title>Giving up the Ghost</Title>
+		<Type>Memoir</Type>
 		<Contributor(s)>Hilary Mantel</Contributor(s)>
-		<ISBN>11111111111</ISBN>
-		<PublicationDate>03/11/1976</PublicationDate>
-		<Publisher>Pen Publishers</Publisher>
-		<CityOfPublication>New York</CityOfPublication>
-		<StateOfPublication>NY</StateOfPublication>
-		<CountryOfPublication>US</CountryOfPublication>
-		<Edition>2</Edition>
-		<Volume>N/A</Volume>
+		<ISBN>N/A</ISBN>
+		<PublicationDate>2003</PublicationDate>
+		<Publisher>Fourth Estate</Publisher>
+		<CountryOfPublication>UK</CountryOfPublication>
 		<Series>N/A</Series>
-
 	</record>
-
-
-Short stories
-
-Learning to Talk (Fourth Estate, 2003)
-
-The Assassination of Margaret Thatcher (Fourth Estate, 2014)
-
-Memoir
-
-Giving Up the Ghost (Fourth Estate, 2003)
+</xml>
 
