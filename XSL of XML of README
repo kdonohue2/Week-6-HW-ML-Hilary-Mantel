@@ -9,7 +9,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <table>
     <tr>
       <th>Title</th>
-      <th>Author</th>
+      <th>Contributor(s)</th>
+      <th>Year</th>
     </tr>
     <xsl:for-each select="catalogue/book">
     <tr>
